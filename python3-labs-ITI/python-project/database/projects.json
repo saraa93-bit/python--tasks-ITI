@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "saraa-project",
+        "details": "python-project-ITI",
+        "target": 200.0,
+        "start_date": "2025-02-25",
+        "end_date": "2025-02-26",
+        "owner": "saraa@gmail.com"
+    }
+]
